@@ -1,1 +1,0 @@
-# backend_soical_media_platform
